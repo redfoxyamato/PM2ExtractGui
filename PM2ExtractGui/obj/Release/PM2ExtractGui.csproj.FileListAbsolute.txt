@@ -1,0 +1,10 @@
+C:\Users\yo\Documents\Visual Studio 2015\Projects\PM2ExtractGui\PM2ExtractGui\bin\Release\PM2ExtractGui.exe
+C:\Users\yo\Documents\Visual Studio 2015\Projects\PM2ExtractGui\PM2ExtractGui\bin\Release\PM2ExtractGui.pdb
+C:\Users\yo\Documents\Visual Studio 2015\Projects\PM2ExtractGui\PM2ExtractGui\bin\Release\LB4Extract.dll
+C:\Users\yo\Documents\Visual Studio 2015\Projects\PM2ExtractGui\PM2ExtractGui\bin\Release\LB4Extract.pdb
+C:\Users\yo\Documents\Visual Studio 2015\Projects\PM2ExtractGui\PM2ExtractGui\obj\Release\PM2ExtractGui.csprojResolveAssemblyReference.cache
+C:\Users\yo\Documents\Visual Studio 2015\Projects\PM2ExtractGui\PM2ExtractGui\obj\Release\PM2ExtractGui.Form1.resources
+C:\Users\yo\Documents\Visual Studio 2015\Projects\PM2ExtractGui\PM2ExtractGui\obj\Release\PM2ExtractGui.Properties.Resources.resources
+C:\Users\yo\Documents\Visual Studio 2015\Projects\PM2ExtractGui\PM2ExtractGui\obj\Release\PM2ExtractGui.csproj.GenerateResource.Cache
+C:\Users\yo\Documents\Visual Studio 2015\Projects\PM2ExtractGui\PM2ExtractGui\obj\Release\PM2ExtractGui.exe
+C:\Users\yo\Documents\Visual Studio 2015\Projects\PM2ExtractGui\PM2ExtractGui\obj\Release\PM2ExtractGui.pdb
